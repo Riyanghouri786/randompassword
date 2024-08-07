@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Kalnia+Glaze:wght@100..700&display=swap');
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background: linear-gradient( red,blue);
+}
+
+.white {
+  color: white;
+}
+.input{
+    border: none;
+    outline: none;
+    padding: 10px;
+    font-size: 20px;
+    font-family: "Kalnia Glaze", serif;
+}
+#submit{
+    border: none;
+    padding: 5px;
+    border-radius: 10px;
+}
